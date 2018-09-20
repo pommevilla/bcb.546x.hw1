@@ -1,1 +1,3 @@
-# bcb.546x.hw1
+# BCB 546x
+
+Partial solutions for BCB 546x assignments.
